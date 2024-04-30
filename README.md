@@ -1,2 +1,4 @@
 # android_device_gionee_m2
-New device tree for old-oooold Gionee M2 :3 - first stage
+The repository at the first stage of work - does not work
+
+I'm working on it.
